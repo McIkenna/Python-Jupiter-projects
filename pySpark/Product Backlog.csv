@@ -1,0 +1,13 @@
+Feature,Scope,Stroies,Sprint,Sprint End Date,Comment/Remarks
+1,Service,Create products' category,1,03/18/2023,
+2,Service,Add a product category,1,03/18/2023,
+3,Service,Update product ,1,03/18/2023,
+4,Service,Update category,1,03/18/2023,
+5,Service,Search for a product,1,03/18/2023,
+6,Service,Seller/buyer create account,2,03/25/2023,
+,Service,Manage seller/buyer account,,03/25/2023,
+8,Service,Buyer add product to shopping cart,3,04/01/2023,
+9,Service,Buyer update shopping cart,3,04/01/2023,
+10,Service,Buyer Checkout shopping cart,3,04/08/2023,
+,Service,Buyer make payment,,04/08/2023,
+12,Service,Check order history,4,04/15/2023,
